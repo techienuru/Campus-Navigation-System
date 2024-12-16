@@ -1,0 +1,79 @@
+-----------------At a roundabout, directions are typically described using the positions of a clock to make it easier for drivers or pedestrians to understand. Here’s how the directions generally work:
+
+1. **12 o’clock**: Go straight ahead (this is usually the exit directly opposite the entry point to the roundabout).
+2. **3 o’clock**: Take the right exit.
+3. **6 o’clock**: U-turn or go back the way you came (if it's possible in the roundabout).
+4. **9 o’clock**: Take the left exit (the first left exit after entering the roundabout).
+
+### Directions you could use in step-by-step navigation:
+- **1st exit (9 o’clock)**: Take the left exit (usually the first exit).
+- **2nd exit (12 o’clock)**: Go straight through the roundabout.
+- **3rd exit (3 o’clock)**: Take the right exit (typically the third exit).
+- **4th exit (6 o’clock)**: U-turn if it's a full roundabout and you need to go back.
+
+Depending on the number of exits, you can also just refer to the first, second, or third exit for simplicity, especially when there are more than three exits.
+
+
+
+-----------------If there is a roundabout on the route, you can adjust the step-by-step directions to include specific instructions for navigating the roundabout. Here’s how you can incorporate that, assuming there’s a roundabout and the person is to take the 9 o’clock exit (which is a left turn) on their way to the **Senate Building**:
+
+---
+
+### Step-by-Step Directions from **Main Gate** to **Senate Building** (with Roundabout):
+
+1. **Start at the Main Gate**  
+   - After entering through the Main Gate, proceed straight ahead on the main road.
+
+2. **Follow the Main Road**  
+   - Continue along the main road, passing several campus buildings on your left and right.
+
+3. **Pass the Faculty of Education Building**  
+   - As you move forward, you will pass the Faculty of Education building on your left. Keep going straight.
+
+4. **Approach the Roundabout**  
+   - After a short distance, you will reach a roundabout. 
+
+5. **Take the First Exit (9 o’clock)**  
+   - At the roundabout, take the first exit to your left (9 o’clock direction). This road will lead you towards the administrative section of the campus.
+
+6. **Head Straight Towards the Central Courtyard**  
+   - Continue straight on this road. You will see the Senate Building ahead, easily recognizable by its prominent architecture.
+
+7. **Arrive at the Senate Building**  
+   - Proceed towards the Senate Building and you have now reached your destination.
+
+---
+
+In this scenario, you guide the user on how to navigate the roundabout, emphasizing the direction (9 o’clock = left exit) they should take to stay on course. You can adjust the clock direction if needed based on the actual layout of your campus.
+
+
+-------------Here’s a possible step-by-step direction from the **Main Gate** to the **Senate Building** at Nasarawa State University, Keffi (NSUK):
+
+---
+
+### Step-by-Step Directions from **Main Gate** to **Senate Building**:
+
+1. **Start at the Main Gate**  
+   - After entering through the Main Gate, proceed straight ahead on the main road.
+
+2. **Follow the Main Road**  
+   - Continue walking or driving along the main road, passing several campus buildings on your left and right.
+
+3. **Pass the Faculty of Education Building**  
+   - As you move forward, you will pass the Faculty of Education building on your left. Keep going straight.
+
+4. **Take the Second Left Turn**  
+   - After passing the Faculty of Education, take the second left turn at the intersection. This turn will lead you onto the road towards the administrative section of the campus.
+
+5. **Head Straight Towards the Central Courtyard**  
+   - Continue straight, heading towards the central courtyard area. You’ll see the Senate Building in the distance, recognizable by its distinctive design.
+
+6. **Approach the Senate Building**  
+   - Walk or drive directly towards the Senate Building, which is situated prominently in the administrative section of the campus.
+
+7. **Arrive at the Senate Building**  
+   - You’ve now reached your destination, the Senate Building.
+
+---
+
+You can use these steps as a detailed guide for your navigation page. Modify or add campus-specific details if needed!

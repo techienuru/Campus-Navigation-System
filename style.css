@@ -1,0 +1,248 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
+    url("images/STN.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.container .image-box {
+  width: 60%;
+  height: 50%;
+  margin-top: 5%;
+  margin-left: 70%;
+}
+
+.row {
+  width: 100%;
+  padding: 10px 42px;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  padding: 20px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 99;
+}
+
+header a {
+  width: 30%;
+  margin-left: -5.1%;
+}
+
+.navbar {
+  color: #fff;
+  user-select: none;
+}
+
+.navbar a {
+  position: relative;
+  font-size: 1.1em;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 40px;
+  margin-right: 10px;
+}
+
+.navbar a:hover {
+  color: #008000;
+}
+
+.content {
+  width: 100%;
+  min-height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content {
+  font-size: 14px;
+  max-width: 570px;
+  color: #fff;
+  line-height: 25px;
+  margin-left: 50px;
+}
+
+.content a {
+  text-decoration: none;
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  letter-spacing: 2px;
+  padding: 12px 20px;
+  background-color: #008000;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.content a:hover {
+  background-color: #fff;
+  color: black;
+}
+
+.content h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: 1px;
+}
+.content p {
+  color: #fff;
+  font-size: 18px;
+  max-width: 570px;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+
+.content span {
+  color: #008000;
+}
+img {
+  width: 50%;
+  overflow: hidden;
+  position: relative;
+}
+
+.plcs-header {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.mssn-excos {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  gap: 50px 25px;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.excos1 {
+  position: relative;
+  max-width: 100%;
+  text-align: center;
+}
+
+.excos1 img {
+  width: 100%;
+  height: 200px; /* Set a fixed height for all images */
+  object-fit: cover; /* Ensures images maintain aspect ratio and are cropped if necessary */
+  box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.472);
+  border-radius: 10px;
+}
+
+.content-par {
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  margin-bottom: 5px;
+  transform: translateX(-50%);
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  width: 80%;
+  height: 25%;
+  padding: 10px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.609);
+}
+
+.content-par p {
+  margin-top: 10px;
+  font-size: 1em;
+}
+
+.content-par a {
+  text-decoration: none;
+  color: black;
+}
+
+.btn a {
+  text-decoration: none;
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  letter-spacing: 2px;
+  padding: 12px 20px;
+  background-color: #008000;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.btn a:hover {
+  background-color: #249ef0;
+  color: black;
+}
+
+/*map*/
+
+#map-container {
+  width: 100%;
+  height: 400px;
+}
+
+.senate-building img {
+  width: 100%;
+  height: 50%;
+}
+
+.senate-building {
+  padding: 0%;
+  margin-top: 50px;
+}
+
+.senate-building h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 800;
+  margin: 20px;
+}
+
+.senate-building h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  margin-top: 10px;
+  background-color: #008000;
+  color: #fff;
+}
